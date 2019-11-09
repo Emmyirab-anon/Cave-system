@@ -1,11 +1,3 @@
-/* Name: Emmanuel Efewongbe
-   Student ID: 200417647
-   Course: CS 115
-   Classs section number: 002
-   Lab section number: 083
-   Date: 21-09-2019
-*/
-
 #include "MapSize.h"
 #include "Shape.h"
 #include "RawMap.h"
